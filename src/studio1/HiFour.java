@@ -17,6 +17,6 @@ public class HiFour {
 		String s2 = in.nextLine();
 		System.out.print("What is the name of member4? ");
 		String s3 = in.nextLine();
-		System.out.print("Greetings " + s0 + ", " + s1 + ", " + s2 + ", and 1" + s3);
+		System.out.print("Greetings " + s0 + ", " + s1 + ", " + s2 + ", and " + s3);
 	}
 }
